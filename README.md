@@ -8,31 +8,29 @@ sudo apt-get update
 
 ثانيا💠✅بنفس الترمنال هذه الكود
 
-
-ثالثا💠✅
-
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-رابعا💠✅ تفتح ترمنال جديد وتخلي ذني بالتسلسل كل امر وراه انتر
+
+ثالثا 💠✅ تفتح ترمنال جديد وتخلي ذني بالتسلسل كل امر وراه انتر
 
 
-خامسا💠✅
+رابعا 💠✅
 
 git clone https://github.com/zozaiq18/DevZoma.git
 
-سادسا💠✅
+خامسا 💠✅
 
 cd DevZoma
 
-سابعا💠✅
+سادسا 💠✅
 
 chmod +x launch.sh
 
-ثامنا💠✅
+سابعا 💠✅
 
 ./launch.sh install
 
-تاسعا💠✅
+ثامنا 💠✅
 
 ./launch.sh
 
@@ -45,3 +43,6 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 
 [✅Develper] (http:\\telegram.com\XlZoZalX)
+
+------------------------------
+ملاحظة :- جميع الاوامر البوت تعمل بدون [/!#] ✅
